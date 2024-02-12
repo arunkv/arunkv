@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 Always learning
+### 🔭 Always learning and coding
 ### 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
 ### 📫 Find me on LinkedIn at https://linkedin.com/in/arunkv 
