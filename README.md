@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **arunkv/arunkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 Always learning
+### 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
+### 📫 Find me on LinkedIn at https://linkedin.com/in/arunkv 
