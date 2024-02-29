@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 Always learning and coding
 - 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
-- 📫 Find me on LinkedIn at https://linkedin.com/in/arunkv 
+- 📫 Find me on LinkedIn at https://linkedin.com/in/arunkv
+- ![GitHub followers](https://img.shields.io/github/followers/arunkv)
+
