@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 Always learning and coding
-### 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
-### 📫 Find me on LinkedIn at https://linkedin.com/in/arunkv 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&multiline=true&random=false&width=435&height=110&lines=Arun+Viswanathan;Head+of+Engineering;Jira+Service+Management%2C+Enterprise;Atlassian%2C+Inc." alt="Typing SVG" /></a>
+
+- 🔭 Always learning and coding
+- 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
+- 📫 Find me on LinkedIn at https://linkedin.com/in/arunkv 
