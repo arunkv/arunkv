@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&multiline=true&random=false&width=435&height=110&lines=Arun+Viswanathan;Head+of+Engineering;Jira+Service+Management%2C+Enterprise;Atlassian%2C+Inc." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Arun+K+Viswanathan;VP+of+Engineering+%2F+India+Site+Leader%2C+Kong+Inc.)](https://git.io/typing-svg)
 
 - 🔭 Always learning and coding
 - 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
