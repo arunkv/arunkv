@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 🔭 Always learning and coding
 - 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
 - 📫 Find me on LinkedIn at https://linkedin.com/in/arunkv
+- <a href="https://linearcalendar.element77.com"><img src="https://linearcalendar.element77.com/favicon.svg" alt="Linear Calendar" width="16" height="16"></a> [Linear Calendar](https://linearcalendar.element77.com)
 - ![GitHub followers](https://img.shields.io/github/followers/arunkv)
 
