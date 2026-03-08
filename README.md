@@ -12,12 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Arun+K+Viswanathan;VP+of+Engineering+%2F+India+Site+Leader%2C+Kong+Inc.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=435&lines=Arun+K+Viswanathan;VP+of+Eng+%2F+India+Site+Leader%2C+Kong+Inc.)](https://git.io/typing-svg)
 - 🔭 Always learning and coding
 - 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
-- 📫 Find me on LinkedIn at https://linkedin.com/in/arunkv
+- <a href="https://linkedin.com/in/arunkv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" alt="LinkedIn" width="16" height="16"></a> <a href="https://linkedin.com/in/arunkv">LinkedIn</a>
 - <a href="https://linearcalendar.element77.com"><img src="https://linearcalendar.element77.com/favicon.svg" alt="Linear Calendar" width="16" height="16"></a> [Linear Calendar](https://linearcalendar.element77.com)
 - ![GitHub followers](https://img.shields.io/github/followers/arunkv)
-
