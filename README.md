@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about leadership, mentorship, building high-performing teams, and running a SaaS business
 - <a href="https://linkedin.com/in/arunkv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" alt="LinkedIn" width="16" height="16"></a> <a href="https://linkedin.com/in/arunkv">LinkedIn</a>
 - <a href="https://linearcalendar.element77.com"><img src="https://linearcalendar.element77.com/favicon.svg" alt="Linear Calendar" width="16" height="16"></a> [Linear Calendar](https://linearcalendar.element77.com)
-- - <a href="https://habits.element77.com"><img src="https://habits.element77.com/favicon.svg" alt="Habits" width="16" height="16"></a> [Habits](https://habits.element77.com)
+- <a href="https://habits.element77.com"><img src="https://habits.element77.com/icon.svg" alt="Habits" width="16" height="16"></a> [Habits](https://habits.element77.com)
 - ![GitHub followers](https://img.shields.io/github/followers/arunkv)
